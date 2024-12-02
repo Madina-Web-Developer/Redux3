@@ -1,0 +1,12 @@
+body{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: full;
+  height: 100vh;
+  background: url(public/S.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
